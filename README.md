@@ -14,8 +14,8 @@ please add data folder.
 ## Commands
 After you go into the directory of the project you need to follow the steps:
 
-1- docker build -t scrapy . -> to build scrapy image
-2- docker compose up -> to orchestrate the whole project
+1- docker build -t scrapy . -> to build scrapy image <br />
+2- docker compose up -> to orchestrate the whole project <br />
 
 At the end you are going to obtain output.csv file as wished right in the container
 
