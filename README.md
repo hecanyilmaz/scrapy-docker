@@ -2,26 +2,8 @@
 
 the project directory is demonstrated as below: 
 
-project_folder
-├── data
-│   ├── s01.json
-│   └── s02.json
-├── docker-compose.yaml
-├── dockerfile
-├── jobs_project
-│   ├── jobs_project
-│   │   ├── __init__.py
-│   │   ├── items.py
-│   │   ├── middlewares.py
-│   │   ├── pipelines.py
-│   │   ├── settings.py
-│   │   └── spiders
-│   │   	├── __init__.py
-│   │   	└── json_spider.py
-│   └── scrapy.cfg
-├── query.py
-├── README.md
-└── requirements.txt
+![image](https://github.com/hecanyilmaz/scrapy-docker/assets/71831337/e83949e1-38ca-49a9-98c6-b0875d266c90)
+
 
 ## Note for running the project
 The uploaded .zip file doesn't include data folder,
