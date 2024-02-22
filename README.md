@@ -19,7 +19,7 @@ After you go into the directory of the project you need to follow the steps:
 
 At the end you are going to obtain output.csv file as wished right in the container
 
-## Note for pipeline
+## Notes for pipeline
 I handled all attributes except "meta_data". I couldn't find out what causes the error for the meta_data project so I decided the disclude it.
 
 * "benefits", "languages", "category", "tags", "tags5", "tags6" attributes consist of arrays. They needed to be changed to write INSERT query. I converted them by adding the "ARRAY" utility in front of the arrays. Or, if the array is empty I converted the values into NULL.
