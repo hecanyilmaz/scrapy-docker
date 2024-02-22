@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  scrapy_service:
+    image: scrapy:latest
+    container_name: scrapy_container
+    depends_on:
+      postgresql_service:
+        condition: service_healthy
+    command: bash -c "cd jobs_project/ && scrapy crawl json_spider && cd .. && python3 query.py"
+    volumes:
+      - output_volume:/output
+
+  postgresql_service:
+    image: postgres:13
+    container_name: postgres_container
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+    - '5432:5432'
+    healthcheck:
+      test: "exit 0"
+
+volumes:
+  output_volume:

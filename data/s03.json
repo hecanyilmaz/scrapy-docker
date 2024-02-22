@@ -1,0 +1,143 @@
+{
+    "jobs": [
+        {
+            "data": {
+                "slug": "25736-614384",
+                "language": "en-ca",
+                "languages": [
+                    "en-ca"
+                ],
+                "req_id": "413028BR",
+                "title": "Package Handler- Warehouse",
+                "description": "Position Title: Package Handler- Warehouse Job Summary FedEx Ground is an essential business that needs people to help us support the economy, handling life-saving medications and other items that keep our communities as prepared as possible during these uncertain times. FedEx Ground will continue to hire for essential positions like this one. FedEx Ground is hiring individuals to load and unload packages for shifts of approximately 2-4 hours in our fast paced warehouse environment. Package Handlers are responsible for warehouse duties including: the physical loading, unloading and/or sorting of packages of varying sizes and weights by hand, including lifting, pushing, pulling, carrying, scanning, placing packages, as well as physical bending, twisting, kneeling and etc. in a safe and efficient manner. Shifts may vary depending on warehouse package volume and business needs. Package Handlers will receive a competitive hourly rate and are eligible for an attractive benefits package including medical, dental, vision, vacation, holiday pay and tuition assistance after completion of an eligibility period of three (3) months. Flexible schedules may be available at some of our locations and can be discussed during the hiring process. Individuals who are interested in starting their journey with FedEx Ground must be at least 18 years of age and will be required to watch a virtual job preview before moving forward with the employment application process. Reasonable accommodations are available through the application process.Address: 365 Black Diamond Blvd City: Winnipeg Province: Manitoba Zip Code: R2J 4M4 Domicile Location: FXG-CAN/CAN/Q6182/Winnipeg Local AutoReqID: 413028BR Additional Sort Observation Info Payrate: $17.15 / hr Sunday – Friday shifts available Shifts fluctuate and start approximately at 5 PM (Sunday at 3PM) Reliable form of transportation requiredEEO Statement: FedEx Ground is an equal opportunity employer",
+                "street_address": "365 Black Diamond Blvd",
+                "city": "Winnipeg",
+                "state": "Manitoba",
+                "country_code": "CA",
+                "location_type": "LAT_LNG",
+                "latitude": 49.8765088,
+                "longitude": -97.05635250000002,
+                "tags": [
+                    "groundwarehousejobscanada"
+                ],
+                "tags5": [
+                    "FedEx Ground Canada"
+                ],
+                "brand": "FedEx Ground Canada",
+                "promotion_value": 0,
+                "salary_currency": "CAD",
+                "salary_value": 0,
+                "salary_min_value": 0,
+                "salary_max_value": 0,
+                "benefits": [
+                    "VISION",
+                    "SICK_DAYS",
+                    "VACATION",
+                    "DENTAL",
+                    "PARENTAL_LEAVE",
+                    "CHILD_CARE",
+                    "MEDICAL"
+                ],
+                "hiring_organization": "FedEx Ground",
+                "source": "ground",
+                "apply_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25736&siteid=5194&jobid=614384",
+                "internal": false,
+                "searchable": true,
+                "applyable": true,
+                "li_easy_applyable": true,
+                "ats_code": "fedexground-prod-kenexa",
+                "meta_data": {
+                    "ats": "kenexa",
+                    "ats_instance": "Ground",
+                    "client_code": "fedex",
+                    "district_description": null,
+                    "domicile_location": "FXG-CAN/CAN/Q6182/Winnipeg Local",
+                    "domicile_location_name": "",
+                    "extensions": "KenexaResponsive",
+                    "flow_config_name": "1025",
+                    "gqid": "1025",
+                    "import_source": "kenexa-job-importer",
+                    "locale_id": "1033",
+                    "login": "kenexa",
+                    "login_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25736&siteid=5194&jobid=614384",
+                    "openingjobs": {},
+                    "partner_id": 25736,
+                    "question_sets": [
+                        {
+                            "name": "fedexkenexa_registration_en_us",
+                            "ordinal": 0
+                        },
+                        {
+                            "name": "fedexground_jsq_25736-614384_en-ca",
+                            "ordinal": 1
+                        },
+                        {
+                            "name": "fedexground_1025_en_ca",
+                            "ordinal": 2
+                        }
+                    ],
+                    "questionservice": {
+                        "id": "31076425"
+                    },
+                    "region_description": null,
+                    "site_id": "5194",
+                    "source_tracking": {
+                        "options": {
+                            "login_url": true,
+                            "url_parameter": "Codes"
+                        },
+                        "type": "url_parameter"
+                    },
+                    "use_poltergeist": false,
+                    "googlejobs": {
+                        "companyName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/companies/6c91e1ea-b6bf-4674-9332-0f6e63a2d98f",
+                        "jobName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/jobs/91610235552047814",
+                        "jobHash": "bd64d6d80b6974ad42eeb22005818117",
+                        "derivedInfo": {
+                            "jobCategories": [
+                                "MANUFACTURING_AND_WAREHOUSE",
+                                "TRANSPORTATION_AND_LOGISTICS"
+                            ],
+                            "locations": [
+                                {
+                                    "latLng": {
+                                        "latitude": 49.8765088,
+                                        "longitude": -97.05635250000002
+                                    },
+                                    "locationType": "STREET_ADDRESS",
+                                    "postalAddress": {
+                                        "addressLines": [
+                                            "365 Black Diamond Blvd, Winnipeg, MB R2J 4M4, Canada"
+                                        ],
+                                        "administrativeArea": "MB",
+                                        "languageCode": "",
+                                        "locality": "Winnipeg",
+                                        "organization": "",
+                                        "postalCode": "R2J 4M4",
+                                        "recipients": [],
+                                        "regionCode": "CA",
+                                        "revision": 0,
+                                        "sortingCode": "",
+                                        "sublocality": ""
+                                    },
+                                    "radiusInMiles": 0.0000783983310841198
+                                }
+                            ]
+                        },
+                        "jobSummary": "Position Title: Package Handler- Warehouse Job Summary FedEx Ground is an essential business that needs people to help us support the economy, handling life-saving medications and other items that keep our communities as prepared as possible during these uncertain times. FedEx Ground will continue to hire for essential positions like this one. FedEx Ground is hiring individuals to load and unload packages for shifts of approximately 2-4 hours in our fast paced warehouse environment. Package Handlers are responsible for warehouse duties including: the physical loading, unloading and/or sorting of packages of varying sizes and weights by hand, including lifting, pushing, pulling, carrying, scanning, placing packages, as well as physical bending, twisting, kneeling and etc. in a safe and efficient manner. Shifts may vary depending on warehouse package volume and business needs. Package Handlers will receive a competitive hourly rate and are eligible for an attractive benefits package including medical, dental, vision, vacation, holiday pay and tuition assistance after completion of an eligibility period of three (3) months. Flexible schedules may be available at some of our locations and can be discussed during the hiring process. Individuals who are interested in starting their journey with FedEx Ground must be at least 18 years of age and will be required to watch a virtual job preview before moving forward with the employment application process. Reasonable accommodations are available through the application process.Address: 365 Black Diamond Blvd City: Winnipeg Province: Manitoba Zip Code: R2J 4M4 Domicile Location: FXG-CAN/CAN/Q6182/Winnipeg Local AutoReqID: 413028BR Additional Sort Observation Info Payrate: $17.15 / hr Sunday – Friday shifts available Shifts fluctuate and start approximately at 5 PM (Sunday at 3PM) Reliable form of transportation requiredEEO Statement: FedEx Ground is an equal opportunity employer",
+                        "jobTitleSnippet": "",
+                        "searchTextSnippet": ""
+                    },
+                    "canonical_url": "https://careers.fedex.com/jobs/25736-614384?lang=en-ca",
+                    "last_mod": "2024-02-02T05:06:11+0000",
+                    "gdpr": false
+                },
+                "update_date": "2024-02-02T05:06:11+0000",
+                "create_date": "2024-02-02T05:06:08+0000",
+                "category": [],
+                "full_location": "Winnipeg, Manitoba",
+                "short_location": "Winnipeg, Manitoba"
+            }
+        }
+    ]
+}
